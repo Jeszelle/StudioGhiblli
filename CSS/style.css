@@ -1,0 +1,357 @@
+
+/* header */
+h1{
+    color: #476D57;
+    text-align: center;
+}
+
+h2{
+    color: #476D57;
+
+}
+
+h3{
+    text-align: left;
+}
+
+
+ul{
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+
+
+}
+
+li{
+    display: inline;
+}
+
+li a{
+    display: inline-block;
+    padding: 10px;
+
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover {
+    color: #476D57 ;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:beige;
+}
+
+/* header */
+
+/* home */
+
+#home img{
+    display: block;
+    margin-top: 30px ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#home h2{
+    text-align: center;
+}
+
+#home p{
+    width: 50em;
+    margin-left: 20em;
+    margin-bottom: 2em;
+    margin-top: 3em;
+  
+}
+
+
+/* home */
+
+/* about */
+
+.abouth2{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#about section{
+    width: 50em;
+    margin-left: 20em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+
+#about h3{
+    text-align: center;
+    color: #476D57;
+}
+
+
+
+#about img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 30%;
+    border-radius: 35px;
+   
+}
+
+/* about */
+
+
+/* movies */
+
+#movies section {
+    width: 50em;
+    margin-left: 20em;
+}
+
+#movies h2{
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+
+}
+
+
+#movies img{
+    width: 50%;
+    height: 30%;
+
+}
+
+.Totoro img{
+    margin: auto;
+    padding: 1%;
+    float: left;
+    clear: left;   
+    border-radius: 35px;
+  
+}
+
+.Totoro h3 {
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    clear: left;   
+
+}
+
+.Totoro p{
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    clear: left;   
+    
+}
+
+.PrincessMononoke img{
+    margin: 10px;
+    padding-left: 0%;
+    float: right;
+    clear: right;
+    border-radius: 20px;   
+}
+
+.PrincessMononoke h3{
+    text-align: right;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    clear: right;   
+}
+
+.PrincessMononoke p{
+    text-align: right;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    clear: right;   
+}
+
+.SpiritedAway img{
+    margin: auto;
+    padding: 1%;
+    float: left;
+    clear: left; 
+    border-radius: 35px;  
+  
+
+}
+
+.SpiritedAway h3{
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    clear: left;
+}
+
+.SpiritedAway p{
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    clear: left;   
+}
+
+
+.HowlsMovingCastle img{
+    margin: 10px;
+    padding-left: 0%;
+    float: right;
+    clear: right; 
+    border-radius: 20px;   
+}
+    
+
+.HowlsMovingCastle h3{
+    text-align: right;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    clear: right; 
+}
+
+.HowlsMovingCastle p{
+    text-align: right;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    clear: right;   
+} 
+
+
+.Ponyo img{
+    margin: auto;
+    padding: 1%;
+    float: left;
+    clear: left;
+    border-radius: 35px;
+}
+
+.Ponyo h3{
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    clear: left;
+}
+
+.Ponyo p{
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    clear: left;
+}
+
+.FromUpOnPoppyHill img{
+    margin: 10px;
+    float: right;
+    clear: right;
+    border-radius: 35px; 
+
+}
+
+.FromUpOnPoppyHill h3{
+    text-align: right;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    clear: right;
+}
+
+.FromUpOnPoppyHill p{
+    text-align: right;
+    margin: 10px;
+    padding: 5px;
+    float: right;
+    clear: right;
+}
+
+
+
+/* movies */
+
+
+
+/* funfacts */
+
+.title {
+    text-align: center;
+}
+
+#funfacts div {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+#funfacts section {
+    width: 300px;
+    margin: 15px;
+    padding: 20px;
+  }
+
+
+ #funfacts section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+#funfacts section h2 {
+    color:#476D57;
+    margin-top: 10px;
+  }
+
+
+#funfacts section a {
+    color:#476D57;
+    text-decoration: none;
+  }
+
+#funfacts section a:hover {
+    text-decoration: underline;
+  }
+
+/* funfacts */
+
+
+
+/* footer */
+
+footer{
+    margin-top: 20em;
+    padding: 2em;
+    text-align: left;
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #476D57;
+
+}
+
+footer a{
+    color: white;
+}
+
+
+#movies footer{
+    float: none;
+    clear: right;
+}
+
+/* footer */
+
